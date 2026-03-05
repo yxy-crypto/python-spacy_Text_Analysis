@@ -1,7 +1,7 @@
 # python-spacy_Text_Analysis
 <br>
 <br>
-three works are in this repository:
+three works are in this repository: 
 <br>
 <br>
 1.writhing check 
@@ -11,6 +11,8 @@ three works are in this repository:
 <br>
 <br>
 3.textanalysis
+<br>
+<br>
 <br>
 <br>
 using spacy (maybe include nltk)attempt to correct grammatical mistakes
@@ -29,3 +31,6 @@ but not all upsets.corpus linguistics hitted me after the work.
 <br>
 <br>
 I can use dictionarys like OALD,OCD,WMU much better than before.
+<br>
+<br>
+Semantic cluster is closer to my demand...
