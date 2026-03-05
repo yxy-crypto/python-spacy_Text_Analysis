@@ -1,2 +1,15 @@
 # python-spacy_Text_Analysis
-there works are in this repository:1.writhing check 2.sytax correcting 3.textanalysis
+<br>
+<br>
+three works are in this repository:1.writhing check 2.sytax correcting 3.textanalysis
+<br>
+<br>
+using spacy (maybe include nltk)attempt to correct grammatical mistakes
+<br>
+...transformer can't work on my laptop...
+<br>
+its not useful,particularly much useless than LLM
+<br>
+actually after this work I have turned to use LLM
+<br>
+but not all upsets.corpus linguistics hitted me after the work,I can use dictionarys like OALD,OCD,WMU much better than before.
